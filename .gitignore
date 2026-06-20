@@ -1,0 +1,14 @@
+# Cargo
+/target
+
+# Environment / Keys
+.env
+.env.*
+
+# Local Application Caching & Logs
+.cache/
+*.log
+
+# NSIS Installer Build Artifacts
+*.exe
+*.nsi.log
